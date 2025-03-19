@@ -21,149 +21,151 @@ ye = "[bold yellow]"
 bl = "[bold blue]"
 
 banner1 = f"""
-{cy}  ██████  ██   ██  █████  ██████  ██████   ████████  ██████   █████   ██████  ███████ 
-{cy} ██       ██   ██ ██   ██ ██   ██ ██   ██     ██    ██   ██ ██   ██ ██       ██      
-{cy} ██   ███ ███████ ███████ ██████  ██████      ██    ██████  ███████ ██   ███ █████   
-{cy} ██    ██ ██   ██ ██   ██ ██   ██ ██   ██     ██    ██   ██ ██   ██ ██    ██ ██      
-{cy}  ██████  ██   ██ ██   ██ ██   ██ ██   ██     ██    ██   ██ ██   ██  ██████  ███████ 
-                                                                                         
+{cy} ███████ ██   ██  █████  ██████   ██████  ██     ██    ████████ ██████   █████   ██████ ███████ 
+{cy} ██      ██   ██ ██   ██ ██   ██ ██    ██ ██     ██       ██    ██   ██ ██   ██ ██      ██      
+{cy} ███████ ███████ ███████ ██   ██ ██    ██ ██  █  ██       ██    ██████  ███████ ██      █████   
+{cy}      ██ ██   ██ ██   ██ ██   ██ ██    ██ ██ ███ ██       ██    ██   ██ ██   ██ ██      ██      
+{cy} ███████ ██   ██ ██   ██ ██████   ██████   ███ ███        ██    ██   ██ ██   ██  ██████ ███████ 
+
 {gr}───────────────────────────────────────────────────────────────
-{wh}   All-in-One Malware Analysis Tool
-{wh}   By {gr}Frozepunk{wh} | Version: {gr}ALph@! $taGe!
+{wh} All-in-One Malware Analysis Tool
+{wh} By {gr}Frozepunk{wh} | Version: {gr}ALph@! $taGe!
 {gr}───────────────────────────────────────────────────────────────{wh}\n
 """
 
 banner2=f"""
-        {ma}:ooooo/        /ooooo:
-           +MMd^^^^^^^^hMMo
-        oNNNMMMNNNNNNNNMMMNNNs
-     /oodMMdooyMMMMMMMMyoodMMdoo/      {wh}+-----------------------------------------+
-   {ma}..dMMMMMy. :MMMMMMMM/  sMMMMMm..    {wh}|              {gr}Qu1cksc0pe                 {wh}|
-  {ma}dmmMMMMMMNmmNMMMMMMMMNmmNMMMMMMmmm   {wh}|                                         |
-  {ma}NMMyoodMMMMMMMMMMMMMMMMMMMMdoosMMM   {wh}|    {gr}All in One malware analysis tool.    {wh}|
-  {ma}NMM-  sMMMNNNNNNNNNNNNNNNMMy  .MMM   {wh}|                                         |
-  {ma}NMM-  sMMyvvvvvvvvvvvvvvsMMy  .MMM   {wh}|             {gr}Version{wh}: {ye}1.8.5              {wh}|
-  {ma}ooo.  :ooooooo+    +ooooooo/   ooo   {wh}+-----------------|||||||-----------------+
-           {ma}/MMMMN    mMMMM+                              {wh}|||||||
-                                                         |||||||\n
+{ma}:ooooo/ /ooooo:
++MMd^^^^^^^^hMMo
+oNNNMMMNNNNNNNNMMMNNNs
+/oodMMdooyMMMMMMMMyoodMMdoo/ {wh}+-----------------------------------------+
+{ma}..dMMMMMy. :MMMMMMMM/ sMMMMMm.. {wh}| {gr}Qu1cksc0pe {wh}|
+{ma}dmmMMMMMMNmmNMMMMMMMMNmmNMMMMMMmmm {wh}| |
+{ma}NMMyoodMMMMMMMMMMMMMMMMMMMMdoosMMM {wh}| {gr}All in One malware analysis tool. {wh}|
+{ma}NMM- sMMMNNNNNNNNNNNNNNNMMy .MMM {wh}| |
+{ma}NMM- sMMyvvvvvvvvvvvvvvsMMy .MMM {wh}| {gr}Version{wh}: {ye}1.8.5 {wh}|
+{ma}ooo. :ooooooo+ +ooooooo/ ooo {wh}+-----------------|||||||-----------------+
+{ma}/MMMMN mMMMM+ {wh}|||||||
+|||||||\n
 """
+
 banner3=f"""
-                   {wh}<------------------------------------------>
-                   <  This tool is very dangerous. Be careful >
-           {gr}__      {wh}<   while using it!!                       >
-         {gr}_|  |_    {wh}<------------------------------------------>
-       {gr}_|      |_   {wh}/
-      {gr}|  _    _  | {wh}/
-      {gr}| |_|  |_| |
-   _  |  _    _  |  _
-  |_|_|_| |__| |_|_|_|
-    |_|_        _|_|   {wh}<- Mr. Virus
-      {gr}|_|      |_|{wh} \n
+{wh}<------------------------------------------>
+< This tool is very dangerous. Be careful >
+{gr}__ {wh}< while using it!! >
+{gr}_| |_ {wh}<------------------------------------------>
+{gr}_| |_ {wh}/
+{gr}| _ _ | {wh}/
+{gr}| |_| |_| |
+_ | _ _ | _
+|_|_|_| |__| |_|_|_|
+|_|_ _|_| {wh}<- Mr. Virus
+{gr}|_| |_|{wh} \n
 """
+
 banner4=f"""
 \n{ye}+ ------------------------------ +
-I                                I
-I      {wh}*********************     {ye}I
-I      {wh}*  {re}MALWARE ALERT!!  {wh}*     {ye}I
-I      {wh}*********************     {ye}I
-I                                I
+I I
+I {wh}********************* {ye}I
+I {wh}* {re}MALWARE ALERT!! {wh}* {ye}I
+I {wh}********************* {ye}I
+I I
 + --------------I I------------- +
-                I I                 {gr}___QU1CKSC0PE___
-                {ye}I I
-             ____V_____              {ma}Version: {re}1.8.5{wh}\n\n
+I I {gr}___QU1CKSC0PE___
+{ye}I I
+____V_____ {ma}Version: {re}1.8.5{wh}\n\n
 """
+
 banner5=f"""
-                        {re}* -------------------------------- *
-           {gr}__           {re}| {gr}Name: {wh}Mr. Virus                  {re}|
-         {gr}_|  |_         {re}| {gr}Type: {wh}Trojan.Dropper             {re}|
-       {gr}_|      |_       {re}| {gr}Status: {wh}Qu1cksc0ped!!            {re}|
-      {gr}|          |      {re}| {gr}Description: {wh}He said dont use    {re}|
-      {gr}|  {re}X    X  {gr}|      {re}| {wh}this tool. Now he is dead.       {re}|
-   {gr}_  |  _    _  |  _   {re}* -------------------------------- *
-  {gr}|_|_|_| |__| |_|_|_|
-    |_|_        _|_|
-      |_|      |_|{wh} \n
+{re}* -------------------------------- *
+{gr}__ {re}| {gr}Name: {wh}Mr. Virus {re}|
+{gr}_| |_ {re}| {gr}Type: {wh}Trojan.Dropper {re}|
+{gr}_| |_ {re}| {gr}Status: {wh}Qu1cksc0ped!! {re}|
+{gr}| | {re}| {gr}Description: {wh}He said dont use {re}|
+{gr}| {re}X X {gr}| {re}| {wh}this tool. Now he is dead. {re}|
+{gr}_ | _ _ | _ {re}* -------------------------------- *
+{gr}|_|_|_| |__| |_|_|_|
+|_|_ _|_|
+|_| |_|{wh} \n
 """
+
 banner6=f"""
 \n{cy}SIMON SAYS:\n
-         {gr}-o          o-
-          +hydNNNNdyh+          {wh}<--------------------------->
-        {gr}+mMMMMMMMMMMMMm+        {wh}<  Do not click every link. >
-       {gr}dMM{wh}m:{gr}NMMMMMMN{wh}:m{gr}MMb       {wh}<      Please listen me!!   >
-      {gr}hMMMMMMMMMMMMMMMMMMh      {wh}<--------------------------->
-  {gr}..  yyyyyyyyyyyyyyyyyyyy  ..    {wh}/
+{gr}-o o-
++hydNNNNdyh+ {wh}<--------------------------->
+{gr}+mMMMMMMMMMMMMm+ {wh}< Do not click every link. >
+{gr}dMM{wh}m:{gr}NMMMMMMN{wh}:m{gr}MMb {wh}< Please listen me!! >
+{gr}hMMMMMMMMMMMMMMMMMMh {wh}<--------------------------->
+{gr}.. yyyyyyyyyyyyyyyyyyyy .. {wh}/
 {gr}.mMMm MMMMMMMMMMMMMMMMMMMM mMMm. {wh}/
 {gr}:MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 :MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM:
 -MMMM-MMMMMMMMMMMMMMMMMMMM-MMMM-
- +yy+ MMMMMMMMMMMMMMMMMMMM +yy+  {wh}<- Mr. Simon
-      {gr}mMMMMMMMMMMMMMMMMMMm
-       /++MMMMh++hMMMM++/
-          MMMMo  oMMMM
-          MMMMo  oMMMM
-          oNMm-  -mMNs{wh} \n
++yy+ MMMMMMMMMMMMMMMMMMMM +yy+ {wh}<- Mr. Simon
+{gr}mMMMMMMMMMMMMMMMMMMm
+/++MMMMh++hMMMM++/
+MMMMo oMMMM
+MMMMo oMMMM
+oNMm- -mMNs{wh} \n
 """
+
 banner7=f"""
-\n  .-------------------------------------.
-  | [____{re}DOWNLOADING FREE RTX 4090{wh}____] |
-  |  _________________________________  |
-  | |{gr}:::::::::::::::::{wh}60%{gr}|{wh}            | |
-  |  \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"  |
-  |_____________________________________|\n
+\n .-------------------------------------.
+| [____{re}DOWNLOADING FREE RTX 4090{wh}____] |
+| _________________________________ |
+| |{gr}:::::::::::::::::{wh}60%{gr}|{wh} | |
+| \"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\"\" |
+|_____________________________________|\n
 """
+
 banner8=f"""
-{gr}                            .oodMMMM
-                   .oodMMMMMMMMMMMMM
-{re}       ..oodMMM{gr}  MMMMMMMMMMMMMMMMMMM
-{re} oodMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM
-{re} MMMMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM
-{re} MMMMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM        {wh}One day Windows will be {gr}MALWAREPROOF{wh}...
-{re} MMMMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM
-{re} MMMMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM
-{re} MMMMMMMMMMMMMM{gr}  MMMMMMMMMMMMMMMMMMM                      {wh}Just kidding XDD
-					    
-{cy} MMMMMMMMMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy} MMMMMMMMMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy} MMMMMMMMMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy} MMMMMMMMMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy} MMMMMMMMMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy} `^^^^^^MMMMMMM{ye}  MMMMMMMMMMMMMMMMMMM
-{cy}       ````^^^^{ye}  ^^MMMMMMMMMMMMMMMMM
-                      ````^^^^^^MMMM{wh}
-"""
+{gr} .oodMMMM
+.oodMMMMMMMMMMMMM
+{re} ..oodMMM{gr} MMMMMMMMMMMMMMMMMMM
+{re} oodMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM
+{re} MMMMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM
+{re} MMMMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM {wh}One day Windows will be {gr}MALWAREPROOF{wh}...
+{re} MMMMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM
+{re} MMMMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM
+{re} MMMMMMMMMMMMMM{gr} MMMMMMMMMMMMMMMMMMM {wh}Just kidding XDD
+
+{cy} MMMMMMMMMMMMMM{ye} MMMMMMMMMMMMMMMMMMM
+{cy} MMMMMMMMMMMMMM{ye} MMMMMMMMMMMMMMMMMMM
+{cy} MMMMMMMMMMMMMM{ye} MMMMMMMMMMMMMMMMMMM
+{cy} MMMMMMMMMMMMMM{ye} MMMMMMMMMMMMMMMMMMM
+{cy} MMMMMMMMMMMMMM{ye} MMMMMMMMMMMMMMMMMMM
+{cy} ^^^^^^MMMMMMM{ye} MMMMMMMMMMMMMMMMMMM{cy} `^^^^{ye} ^^MMMMMMMMMMMMMMMMM
+^^^^^^MMMM{wh}"""
+
 banner9=f"""
-       {re}_______________
-      |{cy}@@@@{re}|     |{cy}####{re}|
-      |{cy}@@@@{re}|     |{cy}####{re}|
-      |{cy}@@@@{re}|     |{cy}####{re}|
-      \\\\{cy}@@@@{re}|     |{cy}####{re}/
-       \\\\{cy}@@@{re}|     |{cy}###{re}/
-        `{cy}@@{re}|_____|{cy}##{re}'
-             {ma}(O)
-        {ye}.-''''''''''-.             {gr}Congratulations!{ye}
-      .'  * * * * * * `.
-     :  *             * :                  {gr}You just analyzed your 1000th sample :){ye}
-    : ~ Malware Hunter ~ :
-    :         of         :
-    :    ~ The Year ~    :             {gr}You won 100BTC!!!{ye}
-     :  *             * :
-      `.  * * * * * * .'
-        `-..........-'
-"""
+{re}_______________
+|{cy}@@@@{re}| |{cy}####{re}|
+|{cy}@@@@{re}| |{cy}####{re}|
+|{cy}@@@@{re}| |{cy}####{re}|
+\\\\{cy}@@@@{re}| |{cy}####{re}/
+\\\\{cy}@@@{re}| |{cy}###{re}/
+{cy}@@{re}|_____|{cy}##{re}' {ma}(O)
+{ye}.-''''''''''-. {gr}Congratulations!{ye}
+.' * * * * * * . : * * : {gr}You just analyzed your 1000th sample :){ye}
+: ~ Malware Hunter ~ :
+: of :
+: ~ The Year ~ : {gr}You won 100BTC!!!{ye}
+: * * :
+. * * * * * * .' -..........-'"""
+
 banner10=f"""
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣶⣶⣿⣷⣆⠀⠀⠀⠀
 ⠀⠀⠀⢀⣤⣤⣶⣶⣾⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⡆⠀⠀⠀
-⠀⢀⣴⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠀⠀⠀⣿⣿⣿⣿⣷⠀⠀⠀        {ye}!!WARNING!!{wh}: Press {re}F key{wh} to respect who clicked this link:
+⠀⢀⣴⣿⣿⣿⣿⣿⣿⡿⠛⠉⠉⠀⠀⠀⣿⣿⣿⣿⣷⠀⠀⠀ {ye}!!WARNING!!{wh}: Press {re}F key{wh} to respect who clicked this link:
 ⣠⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⢤⣶⣾⠿⢿⣿⣿⣿⣿⣇⠀⠀
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠈⠉⠀⠀⠀⣿⣿⣿⣿⣿⡆⠀                  -->  {gr}https://youtu.be/dQw4w9WgXcQ{wh}
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠈⠉⠀⠀⠀⣿⣿⣿⣿⣿⡆⠀ --> {gr}https://youtu.be/dQw4w9WgXcQ{wh}
 ⢸⣿⣿⣿⣏⣿⣿⣿⣿⣿⣷⠀⠀⢠⣤⣶⣿⣿⣿⣿⣿⣿⣿⡀
 ⠀⢿⣿⣿⣿⡸⣿⣿⣿⣿⣿⣇⠀⠀⢿⣿⣿⣿⣿⣿⣿⣿⣿⣧
 ⠀⠸⣿⣿⣿⣷⢹⣿⣿⣿⣿⣿⣄⣀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⢻⣿⣿⣿⡇⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠘⣿⣿⣿⣿⠘⠻⠿⢛⣛⣭⣽⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⢹⣿⣿⠏⠀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋
+⠀⠀⠀⢹⣿⣿⠏⠀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠟⠋
 ⠀⠀⠀⠈⣿⠏⠀⣰⣿⣿⣿⣿⣿⣿⠿⠟⠛⠋⠉⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⢠⡿⠿⠛⠋⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 """
