@@ -72,14 +72,14 @@ I                                I
 + --------------I I------------- +
                 I I                 {gr}___$h@dow Tr@ce___
                 {ye}I I
-             ____V_____              {ma}Version: {re}1.8.5{wh}\n\n
+             ____V_____              {ma}Version: {re}{wh}\n\n
 """
 
 banner5=f"""
                         {re}* -------------------------------- *
            {gr}__           {re}| {gr}Name: {wh}Mr. Virus                  {re}|
          {gr}_|  |_         {re}| {gr}Type: {wh}Trojan.Dropper             {re}|
-       {gr}_|      |_       {re}| {gr}Status: {wh}Qu1cksc0ped!!            {re}|
+       {gr}_|      |_       {re}| {gr}Status: {wh}$h@dow Tr@ced            {re}|
       {gr}|          |      {re}| {gr}Description: {wh}He said dont use    {re}|
       {gr}|  {re}X    X  {gr}|      {re}| {wh}this tool. Now he is dead.       {re}|
    {gr}_  |  _    _  |  _   {re}* -------------------------------- *
