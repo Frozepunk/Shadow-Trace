@@ -111,12 +111,12 @@ ARG_NAMES_TO_KWARG_OPTS = {
     "folder": {"help": "Specify a folder to scan or analyze."},
     "analyze": {"help": "Analyze target file.", "action": "store_true"},
     "archive": {"help": "Analyze archive files.", "action": "store_true"},
-    "console": {"help": "Use Qu1cksc0pe on interactive shell.", "action": "store_true"},
+    "console": {"help": "Use Shadow Trace on interactive shell.", "action": "store_true"},
     "db_update": {"help": "Update malware hash database.", "action": "store_true"},
     "docs": {"help": "Analyze document files.", "action": "store_true"},
     "domain": {"help": "Extract URLs and IP addresses from file.", "action": "store_true"},
     "hashscan": {"help": "Scan target file's hash in local database.", "action": "store_true"},
-    "install": {"help": "Install or Uninstall Qu1cksc0pe.", "action": "store_true"},
+    "install": {"help": "Install or Uninstall Shadow Trace.", "action": "store_true"},
     "key_init": {"help": "Enter your VirusTotal API key.", "action": "store_true"},
     "lang": {"help": "Detect programming language.", "action": "store_true"},
     "mitre": {"help": "Generate MITRE ATT&CK table for target sample (Windows samples for now.).", "action": "store_true"},
@@ -128,7 +128,10 @@ ARG_NAMES_TO_KWARG_OPTS = {
     "vtFile": {"help": "Scan your file with VirusTotal API.", "action": "store_true"}
 }
 
-parser = argparse.ArgumentParser()
+parser = argparse.ArgumentParser(
+    prog="Shadow Trace",
+    description="Shadow Trace - Advanced File and Folder Analysis Tool"
+)
 for arg_name, cfg in ARG_NAMES_TO_KWARG_OPTS.items():
     cfg["required"] = cfg.get("required", False)
     parser.add_argument("--" + arg_name, **cfg)
